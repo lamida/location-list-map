@@ -1,0 +1,32 @@
+continent,country,city,address,email,phone,latitude,longitude
+Africa,South Africa,Johannesburg," ThoughtWorks South Africa 17 Melle Street 2nd Floor, South Point Building Braamfontein Johannesburg 2001", info-za@thoughtworks.com,+27 (0)10 003 2728, -26.194082, 28.035857
+Africa, Uganda, Kampala, "ThoughtWorks Uganda Limited Soliz House, 23, Lumumba Avenue Nakasero Kampala", info-ug@thoughtworks.com, +256 (0)204 007 007, 0.322955, 32.576605
+Australia, Australia, Brisbane, " ThoughtWorks Australia Pty. Ltd.  Level 19,127 Creek Street Brisbane, QLD 4000, Australia ", info-au@thoughtworks.com , +61 7 3129 4506, -27.465812, 153.027588
+Australia, Australia, Melbourne, " ThoughtWorks Australia Pty. Ltd.  Level 23, 303 Collins Street Melbourne, VIC 3000, Australia GPO Box 4701, VIC 3001 ", info-au@thoughtworks.com , +61 3 9691 6500, -37.817357, 144.959681
+Australia, Australia, Perth, " ThoughtWorks Australia Pty. Ltd.  Level 20, 44 St Georges Terrace Perth, WA 6000, Australia ", info-au@thoughtworks.com , +61 8 6369 1040, -31.955227, 115.859348
+Asia, Singapore, Singapore, " ThoughtWorks Singapore Pte. Ltd.  87B Amoy Street, Level 3 Singapore 069906 ", info-sg@thoughtworks.com , +65 6513 6970 / 71, 1.280914, 103.847075
+Australia, Australia, Sydney, " ThoughtWorks Australia Pty Ltd.  Level 8, 51 Pitt St Sydney NSW 2000 Australia ", info-au@thoughtworks.com , +61 2 9224 1700, -33.863048, 151.209082
+Asia, China, Beijing, " ThoughtWorks Software Technologies Ltd.  Room 1105, 11th Floor GuoHua Plaza No.3 Dongzhimen South Street, Dongcheng District Beijing, China, 100007 ", info-cn@thoughtworks.com , +86 10 5693 3000, 39.937086, 116.453834
+Asia, China, Chengdu, " ThoughtWorks Software Technologies (Chengdu) Ltd.  Room 5,7th floor, Area E1 Tianfu Software Park, No.1268 Tianfu Avenue Middle Rd Gaoxin District, Chengdu, Sichuan, 610041 ", info-cn@thoughtworks.com , +86 28 8531 8996, 30.539098, 104.068058
+Asia, China, Shanghai, " ThoughtWorks Software Technologies (Shanghai) Ltd.  Room Temp 208 No. 369, Kaixuan Road Changning District, Shanghai, 200051 ", info-cn@thoughtworks.com , +86 21 6252 3338, 31.203589, 121.419139
+Asia, China, Wuhan, " ThoughtWorks Software Technologies (Wuhan) Ltd.  16F-16 Guang Gu World City Plaza, Luoyu Rd. Hongshan District Wuhan, China 430070 ", info-cn@thoughtworks.com , +86 27 8722 7933, 30.5058906,114.4028664
+Asia, China, Xi'an, " ThoughtWorks Software Technologies Ltd.  Room 01, 15th floor, Building 1, IT Incubator 2nd Area of National Service Outsourcing Demonstration Base No.34 1st Jinye Road, Hi-tech Development District Xi'an, Shaanxi, China, 710062 ", info-cn@thoughtworks.com , +86 (0)29 6865 9600, 34.191446,108.88258
+Europe, Germany, Hamburg, " ThoughtWorks Deutschland GmbH Grosser Burstah 46-48 20457 Hamburg Germany ", info-de@thoughtworks.com , +49 (040) 300 95 880, 53.548754, 9.988496
+Europe, UK, London, " ThoughtWorks Ltd.  9th Floor Berkshire House 168-173 High Holborn London, WC1V 7AA UK ", info-uk@thoughtworks.com , +44 (0)20 7497 4500, 51.515735, -0.125313
+Europe, UK, Manchester, " ThoughtWorks Ltd.  26th Floor City Tower Piccadilly Plaza Manchester, M1 4BT UK ", info-uk@thoughtworks.com , +44 (0)161 923 6810, 53.480270, -2.238339
+Asia , India, Bangalore, " ThoughtWorks Technologies (India) Pvt Ltd.  ACR Mansion G + 3floors 147/F, 8th Main, 3rd Block Koramangala, Bangalore-560034, India ", info-in@thoughtworks.com , +91 80 307 52586, 12.928663, 77.628977
+Asia , India, Chennai, " ThoughtWorks Technologies (India) Pvt Ltd.  Ascendas International Tech Park Zenith - 9th Floor Tharamani Road Tharamani Chennai - 600 113, India ", info-in@thoughtworks.com , +91 44 660 44766, 12.983741, 80.246487
+Asia , India, Gurgaon, " ThoughtWorks Technologies (India) Pvt Ltd.  6th Floor, Tower B Building No. 14 DLF Cyber City Phase III Gurgaon-122002, Haryana India ", info-in@thoughtworks.com , +91 124 493 4900, 28.488772,77.099613
+Asia , India, Pune, " ThoughtWorks Technologies (India) Pvt Ltd.  6th Floor, Binarius Building, Deepak Complex, National Games Road, Beside Sales Tax Office, Shastrinagar, Yerawada Pune, Maharashtra 411006 ", info-in@thoughtworks.com , +91 20 4105 7863/78, 18.5543555,73.8924805
+North America, USA, Atlanta, " Colony Square 100 1175 Peachtree Street NE Suite 1400 Atlanta, GA 30361 USA ", info-us@thoughtworks.com , +1 404 481 4100, 33.786811, -84.382669
+North America, USA, Austin, " Suite 205, 611 South Congress Avenue Austin, TX 78704 USA ", info-us@thoughtworks.com , +1 (512) 623-7844, 30.255376, -97.747069
+North America, USA, Chicago, "200 E Randolph St 25th Floor Chicago, IL 60601-6501 ", USA , info-us@thoughtworks.com , +1 312 373 1001, 41.885047, -87.621548
+North America, USA, Dallas, " 15540, Spectrum Drive Addison, TX 75001 USA ", info-us@thoughtworks.com , +1 972 764 3400, 32.960008, -96.822076
+North America, USA, New York, " 99 Madison Ave 15th Floor New York NY 10016 USA ", info-us@thoughtworks.com , +1 646 412 5200, 40.744740, -73.984935
+North America, USA, San Francisco, " 315 Montgomery Street 16th Floor San Francisco, CA 94104 USA ", info-us@thoughtworks.com , +1 415 273 1389, 37.792180, -122.402850
+North America, Canada, Toronto, " ThoughtWorks Canada Corporation 1 Yonge Street, Suite 1903 Toronto, ON, Canada, M5E 1W7 ", info-ca@thoughtworks.com , +1 416 214 7737, 43.641960, -79.374618
+South America, Brazil, " Porto Alegre ThoughtWorks Brazil Avenida Ipiranga, 6681 - prédio 99a - 14 andar - sala 1402 Porto Alegre - RS Partenon 90619 - 900, Brazil ", info-br@thoughtworks.com , +55 51 3079 3550, -30.060757, -51.170926
+South America, Ecuador, Quito, " ThoughtWorks Ecuador Av. República del Salvador N34-107 y Suiza Edificio Brescia I, piso 9 ", Quito, Ecuador info-ec@thoughtworks.com , +593 (2) 2274906, -0.185837, -78.481920
+South America, Brazil, Recife, " ThoughtWorks Brazil Av. Gov. Agamenon Magalhães, 4779, 12º andar Empresarial Isaac Newton Ilha do Leite, Recife - PE 50070 160 - Brazil " info-br@thoughtworks.com , +55 (81) 3059 3011, -8.064944, -34.896934, South America
+Brazil, São Paulo, " ThoughtWorks Brazil Avenida Paulista, 2073 Edifício Horsa II - Conjunto 1702 Cerqueira César São Paulo - SP, 01311-300, Brazil ", info-br@thoughtworks.com , +55 11 3373-3538, -23.564720, -46.652182
+
