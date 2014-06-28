@@ -1,1 +1,1 @@
-mongoimport -d mydb -c things --type csv --file locations.csv --headerline
+mongoimport -d mydb -c locations --type csv --file thoughtworks.csv --headerline
